@@ -1,0 +1,40 @@
+
+a {
+    text-decoration: none;
+    float: right;
+    margin-top: none;
+    color: black;
+    padding-left: 10px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.poster {
+    height: 30 0px;
+}
+
+.content {
+    font-family: 'Source Sans Pro', sans-serif;
+    border: none;
+}
+
+.poster {
+    padding: 6em
+}
+
+#maincontent {
+    display: flex;
+    flex-direction: row;
+}
+
+button {
+    background-color: red;
+    padding: 1em 2em 1em 2em;
+    border: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: pink;
+    cursor: pointer;
+}
